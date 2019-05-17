@@ -1,0 +1,12 @@
+C:\Users\n.markov\Desktop\Web-work\Test_2019\HttpServer\bin\Debug\netcoreapp2.1\Index.html
+C:\Users\n.markov\Desktop\Web-work\Test_2019\HttpServer\bin\Debug\netcoreapp2.1\HttpServer.deps.json
+C:\Users\n.markov\Desktop\Web-work\Test_2019\HttpServer\bin\Debug\netcoreapp2.1\HttpServer.runtimeconfig.json
+C:\Users\n.markov\Desktop\Web-work\Test_2019\HttpServer\bin\Debug\netcoreapp2.1\HttpServer.runtimeconfig.dev.json
+C:\Users\n.markov\Desktop\Web-work\Test_2019\HttpServer\bin\Debug\netcoreapp2.1\HttpServer.dll
+C:\Users\n.markov\Desktop\Web-work\Test_2019\HttpServer\bin\Debug\netcoreapp2.1\HttpServer.pdb
+C:\Users\n.markov\Desktop\Web-work\Test_2019\HttpServer\obj\Debug\netcoreapp2.1\HttpServer.csprojAssemblyReference.cache
+C:\Users\n.markov\Desktop\Web-work\Test_2019\HttpServer\obj\Debug\netcoreapp2.1\HttpServer.csproj.CoreCompileInputs.cache
+C:\Users\n.markov\Desktop\Web-work\Test_2019\HttpServer\obj\Debug\netcoreapp2.1\HttpServer.AssemblyInfoInputs.cache
+C:\Users\n.markov\Desktop\Web-work\Test_2019\HttpServer\obj\Debug\netcoreapp2.1\HttpServer.AssemblyInfo.cs
+C:\Users\n.markov\Desktop\Web-work\Test_2019\HttpServer\obj\Debug\netcoreapp2.1\HttpServer.dll
+C:\Users\n.markov\Desktop\Web-work\Test_2019\HttpServer\obj\Debug\netcoreapp2.1\HttpServer.pdb

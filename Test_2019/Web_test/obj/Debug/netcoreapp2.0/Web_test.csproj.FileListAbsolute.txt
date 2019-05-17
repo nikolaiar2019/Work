@@ -1,0 +1,11 @@
+C:\Users\n.markov\Desktop\Web-work\Test_2019\Web_test\bin\Debug\netcoreapp2.0\Web_test.deps.json
+C:\Users\n.markov\Desktop\Web-work\Test_2019\Web_test\bin\Debug\netcoreapp2.0\Web_test.runtimeconfig.json
+C:\Users\n.markov\Desktop\Web-work\Test_2019\Web_test\bin\Debug\netcoreapp2.0\Web_test.runtimeconfig.dev.json
+C:\Users\n.markov\Desktop\Web-work\Test_2019\Web_test\bin\Debug\netcoreapp2.0\Web_test.dll
+C:\Users\n.markov\Desktop\Web-work\Test_2019\Web_test\bin\Debug\netcoreapp2.0\Web_test.pdb
+C:\Users\n.markov\Desktop\Web-work\Test_2019\Web_test\obj\Debug\netcoreapp2.0\Web_test.csproj.CoreCompileInputs.cache
+C:\Users\n.markov\Desktop\Web-work\Test_2019\Web_test\obj\Debug\netcoreapp2.0\Web_test.AssemblyInfoInputs.cache
+C:\Users\n.markov\Desktop\Web-work\Test_2019\Web_test\obj\Debug\netcoreapp2.0\Web_test.AssemblyInfo.cs
+C:\Users\n.markov\Desktop\Web-work\Test_2019\Web_test\obj\Debug\netcoreapp2.0\Web_test.dll
+C:\Users\n.markov\Desktop\Web-work\Test_2019\Web_test\obj\Debug\netcoreapp2.0\Web_test.pdb
+C:\Users\n.markov\Desktop\Web-work\Test_2019\Web_test\obj\Debug\netcoreapp2.0\Web_test.csprojAssemblyReference.cache
